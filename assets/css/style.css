@@ -1,0 +1,8 @@
+.bg-black {
+	background-color: #E09D0E;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+  display: hidden;
+}
